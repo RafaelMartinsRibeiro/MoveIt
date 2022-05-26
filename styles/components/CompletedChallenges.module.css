@@ -1,4 +1,4 @@
-.completedChallengesContainer{
+.completedChallengesContainer {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -10,10 +10,10 @@
   font-weight: 500;
 }
 
-.completedChallengesContainer span:first-child{
+.completedChallengesContainer span:first-child {
   font-size: 1.25rem;
 }
 
-.completedChallengesContainer span:last-child{
+.completedChallengesContainer span:last-child {
   font-size: 1.5rem;
 }
