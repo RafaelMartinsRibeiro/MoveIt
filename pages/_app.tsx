@@ -7,7 +7,7 @@ import { ChallengesProvider } from "../contexts/ChallengesContext";
 function MyApp({ Component, pageProps }: AppProps) {
   return (
     <ChallengesProvider>
-      <Component {...pageProps} />;
+      <Component {...pageProps} />
     </ChallengesProvider>
   );
 }
