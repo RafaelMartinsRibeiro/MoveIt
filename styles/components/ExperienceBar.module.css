@@ -23,6 +23,11 @@
 }
 
 span.currentExperience {
+  display: none;
+}
+
+.experienceBar:hover span.currentExperience {
+  display: block;
   position: absolute;
   top: 12px;
   transform: translateX(-50%);
