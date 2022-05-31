@@ -20,7 +20,7 @@
 
 
 <h1 align="center">
-  <img alt="Moveit" src=".github/preview.png" width="100%"> 
+  <img alt="Moveit" src=".github/logo.svg" width="100%"> 
 </h1>
 
 
@@ -33,6 +33,9 @@
     <a href="#memo-licença">Licença</a>
   </p>
 
+<h1 align="center">
+  <img alt="MoveitPng" src=".github/preview.png" width="100%">
+</h1>
 
 <h1 align="center">
   <img alt="MoveitGif" src=".github/previewGif.gif" width="100%">
@@ -46,6 +49,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [TypeScript](https://www.typescriptlang.org)
 - [React](https://reactjs.org)
 - [Next.js](https://nextjs.org)
+- [CSS Modules](https://github.com/css-modules/css-modules)
+- [Context API](https://pt-br.reactjs.org/docs/context.html) - Formas de compartilhar informações entre vários componentes de uma aplicação
+- [Notification](https://developer.mozilla.org/pt-BR/docs/Web/API/Notification)
+  - [HTMLAudioElement](https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement/Audio)
+- [Cookies](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Cookies) - Armazenar informações
+  - [js-cookie](https://www.npmjs.com/package/js-cookie) - Facilita no armazenamento/recuperação de dados dos cookies
 
 
 ## 💻 Projeto
